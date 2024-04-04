@@ -6,7 +6,7 @@
 
 ## Tech Stack
 
-### Programming Languages & Frameworks
+<h3>Programming Languages & Frameworks</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -14,7 +14,7 @@
   </a>
 </p>
 
-### Tools & Technologies
+<h3>Tools & Technologies</h3>
 
 <p align="center">
   <a href="https://skillicons.dev">
