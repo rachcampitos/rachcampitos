@@ -4,6 +4,15 @@
 
 🌟 As a Web UI Developer, I bring a passion for innovation and a commitment to excellence to every project I undertake. With a keen eye for detail and a strong problem-solving mindset, I thrive in dynamic environments where collaboration and creativity are valued. My dedication to staying abreast of emerging technologies drives me to continuously seek out new opportunities for growth and learning.
 
+
+## Tech Stack
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,javascript,nodejs,html,css,sass,git,github" />
+  </a>
+</p>
+
 ### Professional Experience
 
 👨‍💻 In my role as a Web UI Developer, I've been instrumental in driving cross-functional efforts aimed at designing and maintaining user interfaces for client websites. Leveraging a comprehensive skill set encompassing HTML, CSS, JavaScript, Angular, and Ionic frameworks, I've consistently delivered high-quality solutions tailored to meet client requirements.
@@ -17,15 +26,6 @@
 🤝 Collaborating closely with senior developers, I've played a pivotal role in resolving bugs, introducing new features, and enhancing overall site functionality and user experience. Additionally, my commitment to maintaining code quality and consistency is reflected in my proactive approach to conducting peer code reviews.
 
 
-
-
-## Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,javascript,nodejs,html,css,sass,git,github" />
-  </a>
-</p>
 
 
 
