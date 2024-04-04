@@ -6,11 +6,22 @@
 
 ## Tech Stack
 
+### Programming Languages & Frameworks
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,javascript,nodejs,html,css,sass,git,github" />
+    <img src="https://skillicons.dev/icons?i=angular,javascript,ts,nodejs,html,css,sass" />
   </a>
 </p>
+
+### Tools & Technologies
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,bitbucket,mongodb,postman,vscode" />
+  </a>
+</p>
+
 
 ## Professional Experience
 
