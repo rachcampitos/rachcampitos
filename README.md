@@ -37,11 +37,15 @@
 
 ## When I'm AFK
 
-<p align="center">
+<table>
+<tr>
+<td align="center">
     [![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)](https://www.netflix.com)
     [![Apple Music](https://img.shields.io/badge/-Apple%20Music-FF2D55?style=flat-square&logo=apple-music&logoColor=white)](https://music.apple.com)
     [![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white)](https://www.crunchyroll.com)
-</p>
+</td>
+</tr>
+</table>
 
 
 
