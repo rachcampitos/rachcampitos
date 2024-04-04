@@ -37,9 +37,14 @@
 
 ### When I'm AFK
 
-📺 [![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)](https://www.netflix.com)
-🎵 [![Music](https://img.shields.io/badge/-Music-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://www.spotify.com)
-🍜 [![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white)](https://www.crunchyroll.com)
+### When I'm AFK
+
+<div align="center">
+    📺 [![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)](https://www.netflix.com)
+    🎵 [![Music](https://img.shields.io/badge/-Music-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://www.spotify.com)
+    🍜 [![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white)](https://www.crunchyroll.com)
+</div>
+
 
 
 
