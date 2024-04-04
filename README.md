@@ -35,6 +35,11 @@
 
 🤝 Collaborating closely with senior developers, I've played a pivotal role in resolving bugs, introducing new features, and enhancing overall site functionality and user experience. Additionally, my commitment to maintaining code quality and consistency is reflected in my proactive approach to conducting peer code reviews.
 
+### When I'm AFK
+
+📺 [![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)](https://www.netflix.com)
+🎵 [![Music](https://img.shields.io/badge/-Music-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://www.spotify.com)
+🍜 [![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white)](https://www.crunchyroll.com)
 
 
 
