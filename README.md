@@ -16,10 +16,17 @@
 
 🤝 Collaborating closely with senior developers, I've played a pivotal role in resolving bugs, introducing new features, and enhancing overall site functionality and user experience. Additionally, my commitment to maintaining code quality and consistency is reflected in my proactive approach to conducting peer code reviews.
 
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
+
 
 
 ## Tech Stack
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+  </a>
+</p>
+
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 ### Programming Languages & Frameworks
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
