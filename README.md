@@ -25,7 +25,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
 ![Ionic](https://img.shields.io/badge/-Ionic-3880FF?style=flat&logo=ionic&logoColor=white)
-[![My Skills](https://skillicons.dev/icons?i=angular,js,html,css,git, github)](https://skillicons.dev)
+[![Angular, JavaScript, HTML5, CSS3](https://skillicons.dev/icons?i=angular,js,html,css,git, github)](https://skillicons.dev)
 ### Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
