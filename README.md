@@ -39,7 +39,7 @@
 
 <p align="center">
     📺 <a href="https://www.netflix.com"><img src="https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white" alt="Netflix"></a>
-    🎵 <a href="https://www.spotify.com"><img src="https://img.shields.io/badge/-Music-1ED760?style=flat-square&logo=spotify&logoColor=white" alt="Music"></a>
+    🎵 <a href="https://music.apple.com"><img src="https://img.shields.io/badge/-Apple%20Music-FF2D55?style=flat-square&logo=apple-music&logoColor=white" alt="Apple Music"></a>
     🍜 <a href="https://www.crunchyroll.com"><img src="https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white" alt="Crunchyroll"></a>
 </p>
 
