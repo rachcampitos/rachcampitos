@@ -37,13 +37,12 @@
 
 ### When I'm AFK
 
-### When I'm AFK
+<p align="center">
+    📺 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)](https://www.netflix.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🎵 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Music](https://img.shields.io/badge/-Music-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://www.spotify.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    🍜 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white)](https://www.crunchyroll.com) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-<div align="center">
-    📺 [![Netflix](https://img.shields.io/badge/-Netflix-E50914?style=flat-square&logo=netflix&logoColor=white)](https://www.netflix.com)
-    🎵 [![Music](https://img.shields.io/badge/-Music-1ED760?style=flat-square&logo=spotify&logoColor=white)](https://www.spotify.com)
-    🍜 [![Crunchyroll](https://img.shields.io/badge/-Crunchyroll-FF7F00?style=flat-square&logo=crunchyroll&logoColor=white)](https://www.crunchyroll.com)
-</div>
 
 
 
