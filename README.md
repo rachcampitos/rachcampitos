@@ -32,10 +32,6 @@
 ![Google Tag Manager](https://img.shields.io/badge/-Google%20Tag%20Manager-4285F4?style=flat&logo=google-tag-manager&logoColor=white)
 
 
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-
 
 <!--
 **rachcampitos/rachcampitos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
