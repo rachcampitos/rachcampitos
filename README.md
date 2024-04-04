@@ -25,7 +25,7 @@
 ### Programming Languages & Frameworks
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,javascript,html5,css,sass,git,github" />
+    <img src="https://skillicons.dev/icons?i=angular,javascript,html,css,sass,git,github" />
   </a>
 </p>
 
