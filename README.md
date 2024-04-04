@@ -16,6 +16,7 @@
 
 🤝 Collaborating closely with senior developers, I've played a pivotal role in resolving bugs, introducing new features, and enhancing overall site functionality and user experience. Additionally, my commitment to maintaining code quality and consistency is reflected in my proactive approach to conducting peer code reviews.
 
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 
 
 ## Tech Stack
