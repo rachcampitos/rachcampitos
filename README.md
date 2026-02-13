@@ -1,7 +1,9 @@
 <h1 align="center">Raul A. Campos</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer &nbsp;|&nbsp; Founder @ Code Media EIRL &nbsp;|&nbsp; Lima, Peru</strong>
+  <a href="https://codemediaperu.com">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=06B6D4&center=true&vCenter=true&width=520&lines=Full-Stack+Developer;Founder+%40+Code+Media+EIRL;Building+NurseLite+%F0%9F%8F%A5;Lima%2C+Peru+%F0%9F%87%B5%F0%9F%87%AA" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
