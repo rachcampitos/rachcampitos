@@ -113,12 +113,12 @@ Currently focused on **NurseLite**, a home nursing platform operating in Peru wi
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rachcampitos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0A0A" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rachcampitos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&langs_count=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=rachcampitos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0A0A0A" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rachcampitos&layout=compact&theme=tokyonight&hide_border=true&bg_color=0A0A0A&langs_count=8" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rachcampitos&theme=tokyonight&hide_border=true&background=0A0A0A" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rachcampitos&theme=tokyonight&hide_border=true&background=0A0A0A" alt="GitHub Streak" />
 </p>
 
 ---
